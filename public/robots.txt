@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fiducia-plus.github.io/sitemap.xml

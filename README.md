@@ -1,2 +1,13 @@
-# fiducia-plus.github.io
-Astro marketing site for fiducia-plus
+# Fiducia Plus
+
+Astro-only public marketing site for [fiducia-plus](https://github.com/fiducia-plus).
+
+## Development
+
+```sh
+npm ci --ignore-scripts
+npm test
+npm run build
+```
+
+The static site keeps public marketing separate from the user, organization, and Shared Auth surfaces.
